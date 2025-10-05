@@ -196,12 +196,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 **Kauan Hugo**    
 - GitHub: [@kauanhugo](https://github.com/kauanhugo)
 
-## 🙏 Agradecimentos
-
-- Equipe de desenvolvimento
-- Contribuidores do projeto
-- Comunidade open source
-
 ---
 
 **⭐ Se este projeto foi útil, deixe uma estrela no repositório!**
