@@ -203,8 +203,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 ## 👨‍💻 Desenvolvido por
 
-**Kauan Hugo**  
-- Email: kauan.hugo@empresa.com  
+**Kauan Hugo**    
 - GitHub: [@kauanhugo](https://github.com/kauanhugo)
 
 ## 🙏 Agradecimentos
